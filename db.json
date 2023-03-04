@@ -1,0 +1,466 @@
+{
+    "quiz" : {
+        "quizId": "x42kew",
+        "title": "What Pokemon are you?",
+        "subtitle": "Find your inner Pocket Monster...",
+        "content": [
+            {
+                "id": 0,
+                "text": "Pick a vacation destination:",
+                "questions": [
+                    {
+                        "text": "New York",
+                        "image": "https://images.unsplash.com/photo-1534430480872-3498386e7856?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjczMTc0fQ&fit=crop&h=230&w=320&crop=edges",
+                        "alt": "Photo of Empire State Building during daytime",
+                        "credit": "Oliver Niblett"
+    
+                    },
+                    {
+                        "text": "Cabin",
+                        "image": "https://images.unsplash.com/photo-1587061949409-02df41d5e562?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Q2FiaW58ZW58MHx8MHx8&auto=format&fit=crop&h=230&q=60",
+                        "alt": "A Cabin in the woods",
+                        "credit": "Peter Thomas"
+    
+                    },
+                    {
+                        "text": "Hawaii",
+                        "image": "https://images.unsplash.com/photo-1520627900660-e152fd1ee167?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGhhd2FpaXxlbnwwfHwwfHw%3D&auto=format&fit=crop&h=230&q=60",
+                        "alt": "Road in Hawaii",
+                        "credit": "Darren Lawrence"
+    
+                    },
+                    {
+                        "text": "Norway",
+                        "image": "https://images.unsplash.com/photo-1504233529578-6d46baba6d34?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fG5vcndheXxlbnwwfHwwfHw%3D&auto=format&fit=crop&h=230&q=60",
+                        "alt": "House by the sea",
+                        "credit": "Seth Kane"
+    
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "text": "Pick some food:",
+                "questions": [
+                    {
+                        "text": "Pizza",
+                        "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTYyfHxQaXp6YXxlbnwwfHwwfHw%3D&auto=format&fit=crop&h=230&q=60",
+                        "alt": "Pepperoni Pizza",
+                        "credit": "Aurélien"
+                    },
+                    {
+                        "text": "Sandwich",
+                        "image": "https://images.unsplash.com/photo-1608330557791-8dff6a434bbf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDJ8fHNhbmR3aWNofGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&h=230&q=60",
+                        "alt": "Ham Sandwich on white surface",
+                        "credit": "Eaters Collective"
+                    },
+                    {
+                        "text": "Pasta",
+                        "image": "https://images.unsplash.com/photo-1528738064262-9f834cbdfda1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTYxfHxwYXN0YXxlbnwwfHwwfHw%3D&auto=format&fit=crop&h=230&q=60",
+                        "alt": "Pasta in tomato sauce",
+                        "credit": "Pixzolo Photography"
+                    },
+                    {
+                        "text": "Hamburger",
+                        "image": "https://images.unsplash.com/photo-1428660386617-8d277e7deaf2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDd8fGhhbWJ1cmdlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&h=230&q=60",
+                        "alt": "Hamburger",
+                        "credit": "Niklas Rhöse"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "Pick a Bedroom:",
+                "questions": [
+                    {
+                        "text": "Traditional",
+                        "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fHRyYWRpdGlvbmFsJTIwYmVkcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&h=230&q=60",
+                        "alt": "Traditional Bedroom",
+                        "credit": "Kenny Eliason"
+                    },
+                    {
+                        "text": "Modern",
+                        "image": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bW9kZXJuJTIwYmVkcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&h=230&q=60",
+                        "alt": "Modern Bedroom",
+                        "credit": "Roberto Nickson"
+                    },
+                    {
+                        "text": "Simple",
+                        "image": "https://images.unsplash.com/flagged/photo-1556438758-1d61c8c65409?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fENvbWZvcnRhYmxlJTIwYmVkcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&h=230&q=60",
+                        "alt": "simple bedroom",
+                        "credit": "Steven Ungermann"
+                    },
+                    {
+                        "text": "Mountains",
+                        "image": "https://images.unsplash.com/photo-1517217451453-818405428795?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8dGVudCUyMGluJTIwbW91bnRhaW5zfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&h=230&q=60",
+                        "alt": "Tent in the mountains",
+                        "credit": "Paxson Woelber"
+                    }
+                ]
+            }
+        ],
+        "answers": [
+            {
+                "combination": ["New York", "Pizza", "Traditional"],
+                "text": "Bulbasaur",
+                "image": "https://www.serebii.net/pokemon/art/001.png",
+                "alt": "Bulbasaur"
+            },
+            {
+                "combination": ["Cabin", "Pasta", "Modern"],
+                "text": "Charmander",
+                "image": "https://www.serebii.net/pokemon/art/004.png",
+                "alt": "Charmander"
+            },
+            {
+                "combination": ["Hawaii", "Sandwich", "Mountains"],
+                "text": "Squirtle",
+                "image": "https://www.serebii.net/pokemon/art/007.png",
+                "alt": "Squirtle"
+            },
+            {
+                "combination": ["Norway", "Hamburger", "Simple"],
+                "text": "Nidoqueen",
+                "image": "https://www.serebii.net/pokemon/art/031.png",
+                "alt": "Nidoqueen"
+            },
+            {
+                "combination": ["New York", "Pizza", "Modern"],
+                "text": "Nidoking",
+                "image": "https://www.serebii.net/pokemon/art/034.png",
+                "alt":  "Nidoking"
+              },
+              {
+                "combination": ["New York", "Pizza", "Mountains"],
+                "text": "Pidgeot",
+                "image": "https://www.serebii.net/pokemon/art/018.png",
+                "alt":  "Pidgeot"
+              },
+              {
+                "combination": ["New York", "Pizza", "Simple"],
+                "text": "Pikachu",
+                "image": "https://www.serebii.net/pokemon/art/025.png",
+                "alt":  "Pikachu"
+              },
+              {
+                "combination": ["New York", "Pasta", "Traditional"],
+                "text": "Ninetales",
+                "image": "https://www.serebii.net/pokemon/art/038.png",
+                "alt":  "Ninetales"
+              },
+              {
+                "combination": ["New York", "Pasta", "Modern"],
+                "text": "Oddish",
+                "image": "https://www.serebii.net/pokemon/art/043.png",
+                "alt":  "Oddish"
+              },
+              {
+                "combination": ["New York", "Pasta", "Mountains"],
+                "text": "Diglett",
+                "image": "https://www.serebii.net/pokemon/art/050.png",
+                "alt":  "Diglett"
+              },
+              {
+                "combination": ["New York", "Pasta", "Simple"],
+                "text": "Psyduck",
+                "image": "https://www.serebii.net/pokemon/art/054.png",
+                "alt":  "Psyduck"
+              },
+              {
+                "combination": ["New York", "Sandwich", "Traditional"],
+                "text": "Arcanine",
+                "image": "https://www.serebii.net/pokemon/art/059.png",
+                "alt":  "Arcanine"
+              },
+              {
+                "combination": ["New York", "Sandwich", "Modern"],
+                "text": "Poliwrath",
+                "image": "https://www.serebii.net/pokemon/art/062.png",
+                "alt":  "Poliwrath"
+              },
+              {
+                "combination": ["New York", "Sandwich", "Mountains"],
+                "text": "Alakazam",
+                "image": "https://www.serebii.net/pokemon/art/065.png",
+                "alt":  "Alakazam"
+              },
+              {
+                "combination": ["New York", "Sandwich", "Simple"],
+                "text": "Ponyta",
+                "image": "https://www.serebii.net/pokemon/art/077.png",
+                "alt":  "Ponyta"
+              },
+              {
+                "combination": ["New York", "Hamburger", "Traditional"],
+                "text": "Magneton",
+                "image": "https://www.serebii.net/pokemon/art/082.png",
+                "alt":  "Magneton       "
+              },
+              {
+                "combination": ["New York", "Hamburger", "Modern"],
+                "text": "Farfetch'd",
+                "image": "https://www.serebii.net/pokemon/art/083.png",
+                "alt":  "Farfetch'd"
+              },
+              {
+                "combination": ["New York", "Hamburger", "Mountains"],
+                "text": "Dewgong",
+                "image": "https://www.serebii.net/pokemon/art/087.png",
+                "alt":  "Dewgong"
+              },
+              {
+                "combination": ["New York", "Hamburger", "Simple"],
+                "text": "Muk",
+                "image": "https://www.serebii.net/pokemon/art/089.png",
+                "alt":  "Muk"
+              },
+        
+              {
+                "combination": ["Cabin", "Pizza", "Traditional"],
+                "text": "Gengar",
+                "image": "https://www.serebii.net/pokemon/art/094.png",
+                "alt":  "Gengar"
+              },
+              {
+                "combination": ["Cabin", "Pizza", "Modern"],
+                "text": "Voltorb",
+                "image": "https://www.serebii.net/pokemon/art/100.png",
+                "alt":  "Voltorb"
+              },
+              {
+                "combination": ["Cabin", "Pizza", "Mountains"],
+                "text": "Exeggutor",
+                "image": "https://www.serebii.net/pokemon/art/103.png",
+                "alt":  "Exeggutor"
+              },
+              {
+                "combination": ["Cabin", "Pizza", "Simple"],
+                "text": "Cubone",
+                "image": "https://www.serebii.net/pokemon/art/104.png",
+                "alt":  "Cubone"
+              },
+              {
+                "combination": ["Cabin", "Pasta", "Traditional"],
+                "text": "Hitmonlee",
+                "image": "https://www.serebii.net/pokemon/art/106.png",
+                "alt":  "Hitmonlee"
+              },
+              {
+                "combination": ["Cabin", "Pasta", "Mountains"],
+                "text": "Hitmonchan",
+                "image": "https://www.serebii.net/pokemon/art/107.png",
+                "alt":  "Hitmonchan"
+              },
+              {
+                "combination": ["Cabin", "Pasta", "Simple"],
+                "text": "Lickitung",
+                "image": "https://www.serebii.net/pokemon/art/108.png",
+                "alt":  "Lickitung"
+              },
+              {
+                "combination": ["Cabin", "Sandwich", "Traditional"],
+                "text": "Rhydon",
+                "image": "https://www.serebii.net/pokemon/art/112.png",
+                "alt":  "Rhydon"
+              },
+              {
+                "combination": ["Cabin", "Sandwich", "Modern"],
+                "text": "Chansey",
+                "image": "https://www.serebii.net/pokemon/art/113.png",
+                "alt":  "Chansey"
+              },
+              {
+                "combination": ["Cabin", "Sandwich", "Mountains"],
+                "text": "Staryu",
+                "image": "https://www.serebii.net/pokemon/art/120.png",
+                "alt":  "Staryu"
+              },
+              {
+                "combination": ["Cabin", "Sandwich", "Simple"],
+                "text": "Eevee",
+                "image": "https://www.serebii.net/pokemon/art/133.png",
+                "alt":  "Eevee"
+              },
+              {
+                "combination": ["Cabin", "Hamburger", "Traditional"],
+                "text": "Dragonite",
+                "image": "https://www.serebii.net/pokemon/art/149.png",
+                "alt":  "Dragonite"
+              },
+              {
+                "combination": ["Cabin", "Hamburger", "Modern"],
+                "text": "Mewtwo",
+                "image": "https://www.serebii.net/pokemon/art/150.png",
+                "alt":  "Mewtwo"
+              },
+              {
+                "combination": ["Cabin", "Hamburger", "Mountains"],
+                "text": "Mew",
+                "image": "https://www.serebii.net/pokemon/art/151.png",
+                "alt":  "Mew"
+              },
+              {
+                "combination": ["Cabin", "Hamburger", "Simple"],
+                "text": "Celebi",
+                "image": "https://www.serebii.net/pokemon/art/251.png",
+                "alt":  "Celebi"
+              },
+              {
+                "combination": ["Hawaii", "Pizza", "Mountains"],
+                "text": "Chikorita",
+                "image": "https://www.serebii.net/pokemon/art/152.png",
+                "alt":  "Chikorita"
+              },
+              {
+                "combination": ["Hawaii", "Pizza", "Simple"],
+                "text": "Cyndaquil",
+                "image": "https://www.serebii.net/pokemon/art/155.png",
+                "alt":  "Cyndaquil"
+              },
+              {
+                "combination": ["Hawaii", "Pasta", "Traditional"],
+                "text": "Totodile",
+                "image": "https://www.serebii.net/pokemon/art/158.png",
+                "alt":  "Totodile"
+              },
+              {
+                "combination": ["Hawaii", "Pasta", "Modern"],
+                "text": "Ariados",
+                "image": "https://www.serebii.net/pokemon/art/168.png",
+                "alt":  "Ariados"
+              },
+              {
+                "combination": ["Hawaii", "Pasta", "Mountains"],
+                "text": "Crobat",
+                "image": "https://www.serebii.net/pokemon/art/169.png",
+                "alt":  "Crobat"
+              },
+              {
+                "combination": ["Hawaii", "Pasta", "Simple"],
+                "text": "Pichu",
+                "image": "https://www.serebii.net/pokemon/art/172.png",
+                "alt":  "Pichu"
+              },
+              {
+                "combination": ["Hawaii", "Sandwich", "Traditional"],
+                "text": "Togepi",
+                "image": "https://www.serebii.net/pokemon/art/175.png",
+                "alt":  "Togepi"
+              },
+              {
+                "combination": ["Hawaii", "Sandwich", "Modern"],
+                "text": "Ampharos",
+                "image": "https://www.serebii.net/pokemon/art/181.png",
+                "alt":  "Ampharos"
+              },
+              {
+                "combination": ["Hawaii", "Sandwich", "Simple"],
+                "text": "Maril",
+                "image": "https://www.serebii.net/pokemon/art/183.png",
+                "alt":  "Maril"
+              },
+              {
+                "combination": ["Hawaii", "Hamburger", "Traditional"],
+                "text": "Espeon",
+                "image": "https://www.serebii.net/pokemon/art/196.png",
+                "alt":  "Espeon"
+              },
+              {
+                "combination": ["Hawaii", "Hamburger", "Modern"],
+                "text": "Umbreon",
+                "image": "https://www.serebii.net/pokemon/art/197.png",
+                "alt":  "Umbreon"
+              },
+              {
+                "combination": ["Hawaii", "Hamburger", "Mountains"],
+                "text": "Unown",
+                "image": "https://www.serebii.net/pokemon/art/201.png",
+                "alt":  "Unown"
+              },
+              {
+                "combination": ["Hawaii", "Hamburger", "Simple"],
+                "text": "Dunsparce",
+                "image": "https://www.serebii.net/pokemon/art/206.png",
+                "alt":  "Dunsparce"
+              },
+              {
+                "combination": ["Norway", "Pizza", "Mountains"],
+                "text": "Scizor",
+                "image": "https://www.serebii.net/pokemon/art/212.png",
+                "alt":  "Scizor"
+              },
+              {
+                "combination": ["Norway", "Pizza", "Simple"],
+                "text": "Heracross",
+                "image": "https://www.serebii.net/pokemon/art/214.png",
+                "alt":  "Heracross"
+              },
+              {
+                "combination": ["Norway", "Pasta", "Traditional"],
+                "text": "Sneasel",
+                "image": "https://www.serebii.net/pokemon/art/215.png",
+                "alt":  "Sneasel"
+              },
+              {
+                "combination": ["Norway", "Pasta", "Modern"],
+                "text": "Teddiursa",
+                "image": "https://www.serebii.net/pokemon/art/216.png",
+                "alt":  "Teddiursa"
+              },
+              {
+                "combination": ["Norway", "Pasta", "Mountains"],
+                "text": "Corsola",
+                "image": "https://www.serebii.net/pokemon/art/222.png",
+                "alt":  "Corsola"
+              },
+              {
+                "combination": ["Norway", "Pasta", "Simple"],
+                "text": "Delibird",
+                "image": "https://www.serebii.net/pokemon/art/225.png",
+                "alt":  "Delibird"
+              },
+              {
+                "combination": ["Norway", "Sandwich", "Traditional"],
+                "text": "Houndour",
+                "image": "https://www.serebii.net/pokemon/art/228.png",
+                "alt":  "Houndour"
+              },
+              {
+                "combination": ["Norway", "Sandwich", "Modern"],
+                "text": "Phanpy",
+                "image": "https://www.serebii.net/pokemon/art/231.png",
+                "alt":  "Phanpy"
+              },
+              {
+                "combination": ["Norway", "Sandwich", "Mountains"],
+                "text": "Tyranitar",
+                "image": "https://www.serebii.net/pokemon/art/248.png",
+                "alt":  "Tyranitar"
+              },
+              {
+                "combination": ["Norway", "Sandwich", "Simple"],
+                "text": "Lugia",
+                "image": "https://www.serebii.net/pokemon/art/249.png",
+                "alt":  "Lugia"
+              },
+              {
+                "combination": ["Norway", "Hamburger", "Traditional"],
+                "text": "Ho-Oh",
+                "image": "https://www.serebii.net/pokemon/art/250.png",
+                "alt":  "Ho-Oh"
+              },
+              {
+                "combination": ["Norway", "Hamburger", "Modern"],
+                "text": "Suicune",
+                "image": "https://www.serebii.net/pokemon/art/245.png",
+                "alt":  "Suicune"
+              },
+              {
+                "combination": ["Norway", "Hamburger", "Mountains"],
+                "text": "Entei",
+                "image": "https://www.serebii.net/pokemon/art/244.png",
+                "alt":  "Entei"
+              }
+        ]
+    }
+}

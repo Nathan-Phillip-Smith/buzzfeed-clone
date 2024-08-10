@@ -320,6 +320,12 @@
         "alt": "Cyndaquil"
       },
       {
+        "combination": ["Hawaii", "Pizza", "Modern"],
+        "text": "Raichu",
+        "image": "https://www.serebii.net/pokemon/art/26.png",
+        "alt": "Raichu"
+      },
+      {
         "combination": ["Hawaii", "Pasta", "Traditional"],
         "text": "Totodile",
         "image": "https://www.serebii.net/pokemon/art/158.png",
